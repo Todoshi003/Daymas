@@ -1399,3 +1399,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [19Jul2025 15:09:01.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex was slain by Husk
 [19Jul2025 15:11:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toshi003 was blown up by Creeper
 [19Jul2025 15:11:45.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toshi003 was slain by Husk
+[19Jul2025 15:17:32.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Take Aim]
+[19Jul2025 15:19:23.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Tools of the Trade]
+[19Jul2025 15:25:37.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xtarex> ed
+[19Jul2025 15:26:45.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/234425, l='ServerLevel[otrserver]', x=-925.70, y=69.00, z=57.28] died, message: 'Unemployed was slain by Toshi003'
