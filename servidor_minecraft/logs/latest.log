@@ -1403,3 +1403,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [19Jul2025 15:19:23.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Tools of the Trade]
 [19Jul2025 15:25:37.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xtarex> ed
 [19Jul2025 15:26:45.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/234425, l='ServerLevel[otrserver]', x=-925.70, y=69.00, z=57.28] died, message: 'Unemployed was slain by Toshi003'
+[19Jul2025 15:38:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toshi003 has made the advancement [Masquerade]
+[19Jul2025 15:43:40.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex was slain by Umvuthana Raptor
+[19Jul2025 15:43:59.339] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:43:59.339] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:44:00.211] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-560.1899999976158, 29.929999977350235, -379.1899999976158] -> [465.1899999976158, 36.770000010728836, 646.1899999976158] returning empty list! this might break things
+[19Jul2025 15:44:05.253] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-557.9151820504053, 26.0, -376.95597492938015] -> [467.4648179448263, 32.8400000333786, 648.4240250658515] returning empty list! this might break things
+[19Jul2025 15:44:10.256] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-557.9151820504053, 26.0, -376.95597492938015] -> [467.4648179448263, 32.8400000333786, 648.4240250658515] returning empty list! this might break things
+[19Jul2025 15:44:15.356] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-557.9151820504053, 26.0, -376.95597492938015] -> [467.4648179448263, 32.8400000333786, 648.4240250658515] returning empty list! this might break things
+[19Jul2025 15:44:17.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:44:17.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:45:42.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:45:57.658] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-858.875, 34.9375, -316.875] -> [165.875, 41.3125, 707.875] returning empty list! this might break things
+[19Jul2025 15:46:03.262] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-855.208930459892, 31.349474294789417, -324.34150516865515] -> [169.54106954010797, 37.72447429478942, 700.4084948313448] returning empty list! this might break things
+[19Jul2025 15:46:08.354] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-855.1075662512003, 31.19433727921364, -324.51173838058145] -> [169.6424337487997, 37.56933727921364, 700.2382616194186] returning empty list! this might break things
+[19Jul2025 15:46:12.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:46:31.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:46:31.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:46:31.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:46:31.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:47:07.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Toshi003) moved wrongly! 0.257802173543098
+[19Jul2025 15:47:07.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Toshi003) moved wrongly! 0.35377025619760616
+[19Jul2025 15:47:19.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:47:23.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:47:23.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:47:23.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:52:36.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:52:36.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
