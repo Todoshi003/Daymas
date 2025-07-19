@@ -1336,3 +1336,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [19Jul2025 13:50:41.197] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-1301.8335441638371, 54.99999999963234, -209.50670203334755] -> [-276.4535441686055, 61.84000003301094, 815.8732979618841] returning empty list! this might break things
 [19Jul2025 13:50:46.298] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-1301.8335441638371, 54.99999999963234, -209.50670203334755] -> [-276.4535441686055, 61.84000003301094, 815.8732979618841] returning empty list! this might break things
 [19Jul2025 13:51:33.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Isn't It Iron Pick]
+[19Jul2025 13:55:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Stone Age]
+[19Jul2025 13:56:29.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Monster Hunter]
+[19Jul2025 13:57:16.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Sweet Dreams]
+[19Jul2025 13:59:13.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Not Today, Thank You]
+[19Jul2025 14:00:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Quite the Renovation]
