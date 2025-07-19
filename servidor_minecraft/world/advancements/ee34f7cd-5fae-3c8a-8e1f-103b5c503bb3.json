@@ -856,6 +856,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "honey_bottle": "2025-07-19 01:42:15 +0000",
+      "cooked_chicken": "2025-07-19 22:24:16 +0000",
       "upgrade_aquatic:cooked_lionfish": "2025-07-19 01:52:18 +0000",
       "mushroom_stew": "2025-07-19 02:20:35 +0000",
       "cooked_mutton": "2025-07-19 01:04:31 +0000",
@@ -1891,6 +1892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
@@ -1969,9 +1976,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-19 21:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
     },
     "done": true
   },
@@ -2011,6 +2030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
@@ -2029,6 +2054,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
@@ -2041,9 +2078,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-07-19 21:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
     },
     "done": true
   },
@@ -2089,6 +2138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
@@ -2098,6 +2153,12 @@
   "upgrade_aquatic:recipes/decorations/driftwood_fence": {
     "criteria": {
       "has_planks": "2025-07-19 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
     },
     "done": true
   },
@@ -2122,6 +2183,12 @@
   "vs_eureka:recipes/balloon_wool": {
     "criteria": {
       "has_wool": "2025-07-19 21:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
     },
     "done": true
   },
@@ -2167,6 +2234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/redstone/driftwood_button": {
     "criteria": {
       "has_planks": "2025-07-19 21:53:02 +0000"
@@ -2206,6 +2279,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-07-19 21:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
     },
     "done": true
   },
@@ -2302,6 +2381,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-19 21:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-19 22:19:25 +0000"
     },
     "done": true
   },
