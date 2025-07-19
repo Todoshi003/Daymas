@@ -534,6 +534,7 @@
       "upgrade_aquatic:cooked_lionfish": "2025-07-19 00:08:55 +0000",
       "mushroom_stew": "2025-07-18 15:42:14 +0000",
       "apple": "2025-07-18 14:21:35 +0000",
+      "bread": "2025-07-19 00:17:20 +0000",
       "rotten_flesh": "2025-07-18 14:42:46 +0000",
       "melon_slice": "2025-07-18 15:18:01 +0000",
       "cooked_salmon": "2025-07-18 15:12:29 +0000"
@@ -1445,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-19 00:17:36 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
     "criteria": {
       "has_logs": "2025-07-19 00:04:03 +0000"
@@ -1589,6 +1596,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-19 00:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-07-19 00:13:18 +0000"
@@ -1664,6 +1677,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-19 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-19 00:24:08 +0000"
     },
     "done": true
   },
