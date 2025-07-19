@@ -1,7 +1,49 @@
 {
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-19 13:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-07-19 13:30:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-07-19 13:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-19 13:35:03 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
     },
     "done": true
   },
@@ -11,15 +53,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-07-19 13:30:27 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/driftwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-07-19 13:30:27 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-07-19 13:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
     },
     "done": true
   },
@@ -35,11 +149,44 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-07-19 13:30:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-07-19 13:33:12 +0000",
+      "has_black_balloon": "2025-07-19 13:33:12 +0000",
+      "has_lime_balloon": "2025-07-19 13:33:12 +0000",
+      "has_cyan_balloon": "2025-07-19 13:33:12 +0000",
+      "has_light_blue_balloon": "2025-07-19 13:33:12 +0000",
+      "has_gray_balloon": "2025-07-19 13:33:12 +0000",
+      "has_pink_balloon": "2025-07-19 13:33:12 +0000",
+      "has_light_gray_balloon": "2025-07-19 13:33:12 +0000",
+      "has_white_balloon": "2025-07-19 13:33:12 +0000",
+      "has_blue_balloon": "2025-07-19 13:33:12 +0000",
+      "has_yellow_balloon": "2025-07-19 13:33:12 +0000",
+      "has_purple_balloon": "2025-07-19 13:33:12 +0000",
+      "has_orange_balloon": "2025-07-19 13:33:12 +0000",
+      "has_brown_balloon": "2025-07-19 13:33:12 +0000",
+      "has_green_balloon": "2025-07-19 13:33:12 +0000",
+      "has_magenta_balloon": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -53,11 +200,95 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-19 13:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-19 13:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-19 13:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-19 13:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/river_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-19 13:35:03 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-07-19 13:30:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 13:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 13:34:15 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
   },
   "betterdungeons:root": {
     "criteria": {
@@ -73,9 +304,32 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-19 13:31:53 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-19 13:40:19 +0000",
+      "minecraft:river": "2025-07-19 13:34:03 +0000",
+      "minecraft:stony_shore": "2025-07-19 13:31:54 +0000",
+      "minecraft:forest": "2025-07-19 13:34:03 +0000",
       "minecraft:plains": "2025-07-19 13:30:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/decorations/starlit_factory_update_fix": {
+    "criteria": {
+      "has_item": "2025-07-19 13:34:33 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2025-07-19 13:33:12 +0000"
+    },
+    "done": true
   },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
@@ -92,6 +346,36 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-07-19 13:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 13:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-19 13:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 13:34:03 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2025-07-19 13:33:12 +0000"
     },
     "done": true
   },
