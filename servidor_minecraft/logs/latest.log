@@ -1430,3 +1430,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [19Jul2025 15:47:23.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [19Jul2025 15:52:36.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [19Jul2025 15:52:36.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 15:56:47.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Suit Up]
+[19Jul2025 16:05:10.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Toshi003> t

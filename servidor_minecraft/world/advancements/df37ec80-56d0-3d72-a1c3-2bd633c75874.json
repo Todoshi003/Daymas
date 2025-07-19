@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-19 15:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-19 15:00:24 +0000"
@@ -1604,6 +1610,7 @@
       "cooked_chicken": "2025-07-19 14:03:25 +0000",
       "mushroom_stew": "2025-07-19 15:48:52 +0000",
       "bread": "2025-07-19 13:45:18 +0000",
+      "beetroot": "2025-07-19 16:01:24 +0000",
       "carrot": "2025-07-19 15:07:49 +0000"
     },
     "done": false
