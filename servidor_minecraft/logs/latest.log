@@ -1436,3 +1436,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [19Jul2025 16:09:10.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [19Jul2025 16:11:44.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [19Jul2025 16:11:44.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[19Jul2025 16:19:01.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xtarex has made the advancement [Best Friends Forever]
+[19Jul2025 16:23:59.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 16:24:23.689] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/300158, l='ServerLevel[otrserver]', x=-774.50, y=58.00, z=-218.50]
+[19Jul2025 16:24:24.138] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/300177, l='ServerLevel[otrserver]', x=-774.50, y=58.00, z=-218.50]
+[19Jul2025 16:24:42.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 16:24:55.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 16:25:44.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 16:25:44.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 16:25:45.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 16:26:03.189] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/301802, l='ServerLevel[otrserver]', x=-774.50, y=58.00, z=-219.50]
+[19Jul2025 16:26:03.638] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/301803, l='ServerLevel[otrserver]', x=-774.50, y=58.00, z=-219.50]
