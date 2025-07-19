@@ -35,3 +35,42 @@
 [19Jul2025 00:07:03.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [19Jul2025 00:07:03.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [19Jul2025 00:07:05.758] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:07:53.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:07:53.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:07:53.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:08:56.506] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:08:56.507] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:09:22.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:09:22.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:09:22.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:09:27.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:09:27.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:09:27.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:09:32.725] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-660.8093169192824, 42.06901970753846, 206.15269248391837] -> [363.9406830807176, 48.44401970753846, 1230.9026924839184] returning empty list! this might break things
+[19Jul2025 00:09:37.746] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-660.5738877950756, 41.98759896432466, 206.15269248391837] -> [364.1761122049244, 48.36259896432466, 1230.9026924839184] returning empty list! this might break things
+[19Jul2025 00:09:42.849] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-660.5738877950756, 41.98759896432466, 206.15269248391837] -> [364.1761122049244, 48.36259896432466, 1230.9026924839184] returning empty list! this might break things
+[19Jul2025 00:09:47.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:09:47.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:09:47.917] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-660.5738877950756, 41.98759896432466, 206.15269248391837] -> [364.1761122049244, 48.36259896432466, 1230.9026924839184] returning empty list! this might break things
+[19Jul2025 00:09:52.922] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-683.333282243663, 47.119476166984555, 159.99370907301522] -> [342.0467177515687, 53.959476200363156, 1185.3737090682469] returning empty list! this might break things
+[19Jul2025 00:10:05.579] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:10:05.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:10:05.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:10:48.970] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:10:48.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:10:59.858] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:10:59.859] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:11:07.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:11:25.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:11:58.258] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:15:09.107] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:15:09.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:15:09.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:15:09.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:16:39.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YAMAL[/127.172.33.24:59363] logged in with entity id 9472 at (-39.5, 64.0, 186.5)
+[19Jul2025 00:16:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAMAL joined the game
+[19Jul2025 00:16:39.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAMAL has made the advancement [Nether's Exoticism]
+[19Jul2025 00:16:39.565] [Server thread/INFO] [Jade/]: Syncing config to YAMAL (ee34f7cd-5fae-3c8a-8e1f-103b5c503bb3)
+[19Jul2025 00:16:39.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAMAL has made the advancement [Ice and Fire]
+[19Jul2025 00:16:43.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 00:16:43.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
