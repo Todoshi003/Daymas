@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-07-19 13:52:44 +0000"
@@ -112,6 +118,12 @@
       "has_mutton": "2025-07-19 14:45:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
   },
   "minecraft:story/deflect_arrow": {
     "criteria": {
@@ -359,6 +371,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-07-19 13:34:15 +0000"
@@ -448,6 +466,12 @@
       "has_item": "2025-07-19 13:52:44 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
@@ -699,6 +723,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
+  },
   "upgrade_aquatic:recipes/transportation/driftwood_boat": {
     "criteria": {
       "in_water": "2025-07-19 13:34:03 +0000"
@@ -794,6 +824,12 @@
       "in_water": "2025-07-19 13:34:03 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
@@ -896,6 +932,18 @@
       "requirement": "2025-07-19 13:30:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
@@ -1110,6 +1158,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-07-19 13:30:29 +0000"
@@ -1265,6 +1319,12 @@
       "has_diamond": "2025-07-19 15:00:24 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
@@ -1515,6 +1575,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-07-19 13:31:53 +0000",
+      "minecraft:sparse_jungle": "2025-07-19 16:27:52 +0000",
       "minecraft:lukewarm_ocean": "2025-07-19 13:40:19 +0000",
       "minecraft:river": "2025-07-19 13:34:03 +0000",
       "minecraft:stony_shore": "2025-07-19 13:31:54 +0000",
@@ -1530,6 +1591,12 @@
       "has_planks": "2025-07-19 13:33:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
@@ -1572,6 +1639,12 @@
       "has_item": "2025-07-19 14:58:11 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 16:40:33 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
