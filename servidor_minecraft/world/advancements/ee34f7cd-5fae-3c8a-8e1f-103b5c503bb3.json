@@ -1913,9 +1913,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 21:17:53 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_wool": {
     "criteria": {
       "has_wool": "2025-07-19 21:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 21:17:53 +0000"
     },
     "done": true
   },
@@ -1934,6 +1946,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-19 21:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 21:17:53 +0000"
     },
     "done": true
   },
