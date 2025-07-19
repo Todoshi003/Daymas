@@ -2298,9 +2298,39 @@
     },
     "done": true
   },
+  "spartanshields:recipes/silver_tower_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 14:11:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-19 14:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 14:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 14:13:49 +0000"
     },
     "done": true
   },
@@ -2310,15 +2340,141 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-19 14:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-19 14:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 14:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-19 14:14:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-07-19 14:10:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-19 14:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-19 14:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 14:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-19 14:13:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-07-19 14:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 14:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-19 14:13:48 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/silver_basic_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 14:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-19 14:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-19 14:13:48 +0000"
     },
     "done": true
   },
