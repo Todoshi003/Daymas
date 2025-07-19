@@ -551,6 +551,7 @@
       "minecraft:skeleton": "2025-07-18 14:41:42 +0000",
       "minecraft:vindicator": "2025-07-18 15:09:28 +0000",
       "minecraft:spider": "2025-07-18 14:25:16 +0000",
+      "minecraft:creeper": "2025-07-19 14:04:26 +0000",
       "minecraft:husk": "2025-07-19 01:37:38 +0000",
       "minecraft:zombie": "2025-07-18 14:42:36 +0000",
       "minecraft:drowned": "2025-07-18 14:46:42 +0000"
@@ -2294,6 +2295,30 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-19 03:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-19 14:03:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-19 14:10:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-07-19 14:10:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-19 14:10:05 +0000"
     },
     "done": true
   },
