@@ -97,9 +97,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-19 21:54:00 +0000",
       "log_spam_fixer": "2025-07-19 00:16:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
@@ -1896,9 +1897,21 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/driftwood": {
+    "criteria": {
+      "has_log": "2025-07-19 21:45:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 21:53:02 +0000"
     },
     "done": true
   },
@@ -1914,6 +1927,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-19 21:51:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
@@ -1923,6 +1942,30 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-19 21:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-19 21:51:00 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-07-19 21:51:58 +0000"
     },
     "done": true
   },
@@ -1956,6 +1999,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 21:45:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
@@ -1965,6 +2014,12 @@
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 21:53:02 +0000"
     },
     "done": true
   },
@@ -1986,6 +2041,24 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-07-19 21:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-19 21:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-19 21:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-19 21:02:42 +0000"
@@ -1998,6 +2071,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-19 21:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-19 21:51:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
@@ -2007,6 +2092,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 21:53:02 +0000"
     },
     "done": true
   },
@@ -2046,6 +2137,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-19 21:51:50 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-07-19 21:02:42 +0000"
@@ -2061,6 +2158,12 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 21:53:02 +0000"
     },
     "done": true
   },
@@ -2082,9 +2185,33 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 21:53:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-19 21:51:00 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-19 21:51:00 +0000"
     },
     "done": true
   },
@@ -2109,6 +2236,18 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 21:27:05 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 21:53:02 +0000"
     },
     "done": true
   },
@@ -2151,6 +2290,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-07-19 21:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-19 21:51:00 +0000"
     },
     "done": true
   },

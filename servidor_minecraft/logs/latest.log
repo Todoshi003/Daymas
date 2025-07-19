@@ -1202,3 +1202,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [19Jul2025 20:41:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toshi003 left the game
 [19Jul2025 21:05:07.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [19Jul2025 21:05:07.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[19Jul2025 21:53:09.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAMAL has made the advancement [Would you Like to Know More?]
